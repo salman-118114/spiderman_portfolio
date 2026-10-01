@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+.ui-craft
+.env*
+*.log
+Dockerfile
+.dockerignore
+README.md
